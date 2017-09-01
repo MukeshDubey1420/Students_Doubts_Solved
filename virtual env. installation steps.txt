@@ -1,0 +1,7 @@
+1. pip install virtualenv
+2. cd 'path where you want to install virtual environment'
+3. virtualenv env_name
+4. cd env_name\Scripts\
+5. activate and also remember interpreter (file->Settings->Project interpreter) virtualenv interpreter (python.exe)
+6. (env_name)
+7. deactivate
